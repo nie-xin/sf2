@@ -1,0 +1,4 @@
+nie_credit:
+    resource: "@NieCreditBundle/Resources/config/routing.yml"
+    prefix:   /
+
